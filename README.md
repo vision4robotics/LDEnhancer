@@ -16,7 +16,7 @@ This figure shows the workflow of our tracker.
  -->
 Download the datasets：
 train_dataset
-* [NAT2021]((https://pan.baidu.com/s/1nCHVDRDib7K9Nw1iknspeQ) (code: hjr8)
+* [NAT2021](https://pan.baidu.com/s/1nCHVDRDib7K9Nw1iknspeQ) (code: hjr8)
 
 
 
