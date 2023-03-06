@@ -54,5 +54,5 @@ Email: changhongfu@tongji.edu.cn
 
 # Acknowledgements
 
-We sincerely thank the contribution of `Chongyi Li`, `Chen Wei` for their previous work [Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) and [Darklighter](https://github.com/vision4robotics/DarkLighter).
+We sincerely thank the contribution of `Chongyi Li`, `Junjie Ye` for their previous work [Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) and [Darklighter](https://github.com/vision4robotics/DarkLighter).
 
