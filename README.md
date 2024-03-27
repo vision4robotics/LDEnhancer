@@ -1,4 +1,4 @@
-# Light Distribution-Aware Enhancement for Low-Light UAV Tracking
+# Enhancing Nighttime UAV Tracking with Light Distribution Suppression
 
 Code and demo videos of LDEnhancer---a low-light enhancer towards facilitating UAV tracking at night with uneven light distribution.
 
@@ -78,7 +78,9 @@ Email: changhongfu@tongji.edu.cn
 
 - The code for evaluation is implemented based on SNOT and CDT. We would like to express our sincere thanks to the contributors.
 
--  We sincerely thank [SiamAPN](https://github.com/vision4robotics/SiamAPN), [SiamAPN++](https://github.com/vision4robotics/SiamAPN), [SiamRPN++](https://github.com/STVIR/pysot), [SiamBAN](https://github.com/hqucv/siamban), and [SiamGAT](https://github.com/ohhhyeahhh/SiamGAT) trackers and [SCT](https://github.com/vision4robotics/SCT) and [DCE++](https://github.com/Li-Chongyi/Zero-DCE_extension) enhancers for their efforts.
+-  We sincerely thank [SiamAPN](https://github.com/vision4robotics/SiamAPN), [SiamAPN++](https://github.com/vision4robotics/SiamAPN), [SiamRPN++](https://github.com/STVIR/pysot), and [LPAT](https://github.com/vision4robotics/LPAT) trackers for their efforts. 
+
+-  We sincerely thank [DarkLighter](https://github.com/vision4robotics/DarkLighter), [HighlightNet](https://github.com/vision4robotics/HighlightNet), [SCT](https://github.com/vision4robotics/SCT) and [DCE++](https://github.com/Li-Chongyi/Zero-DCE_extension) enhancers for their efforts.
 
 
  
