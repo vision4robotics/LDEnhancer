@@ -5,8 +5,6 @@ from __future__ import unicode_literals
 
 from snot.pipelines.siamapn_pipeline import SiamAPNPipeline
 from snot.pipelines.siamapnpp_pipeline import SiamAPNppPipeline
-from snot.pipelines.siamban_pipeline import SiamBANPipeline
-from snot.pipelines.siamgat_pipeline import SiamGATPipeline
 from snot.pipelines.siamrpn_pipeline import SiamRPNppPipeline
 from snot.pipelines.lpat_pipeline import LPATPipeline
 
@@ -15,8 +13,6 @@ TRACKERS =  {
           'SiamAPN': SiamAPNPipeline,
           'SiamAPN++': SiamAPNppPipeline,
           'SiamRPN++': SiamRPNppPipeline,
-          'SiamBAN': SiamBANPipeline,
-          'SiamGAT': SiamGATPipeline,
           'LPAT': LPATPipeline
           }
 
