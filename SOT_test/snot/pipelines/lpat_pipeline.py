@@ -81,7 +81,11 @@ class DNS_LPATTracker(LPATTracker):
                                     cfg.TRACK.INSTANCE_SIZE,
                                     round(s_x), self.channel_average)
         
-
+        if self.enhancer is not None:
+            x_crop = self.enhancer.enhance(x_crop)
+        if self.denoiser is not None:
+            x_crop = self.denoiser.denoise(x_crop)
+        outputs = self.model.track(x_crop)
         outputs = self.model.track(x_crop)
         pred_bbox=self.generate_anchor(outputs['loc']).transpose()
         # self.anchors = self.generate_anchor() 
