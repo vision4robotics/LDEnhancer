@@ -68,7 +68,6 @@ Email: changhongfu@tongji.edu.cn
 >
 >     ```
 >     cd LDEnhancer
->     python lowlight_train_paired.py  # FENet and IANet pretraining
 >     python lowlight_train.py
 >     ```
 
