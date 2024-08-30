@@ -20,6 +20,7 @@ This figure shows the workflow of our tracker.
 ## Demo
 
 - 📹 Demo of real-world tests.
+- The demo will be released in the coming period.
 <!--- Refer to [LDEnhancer](https://youtu.be/tTI-QHqxMf8) on YouTube for more real-world tests.-->
 ## Download the datasets：
 train_dataset
