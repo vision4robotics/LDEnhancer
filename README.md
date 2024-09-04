@@ -28,7 +28,7 @@ train_dataset
 
 test_dataset
 
-The dataset will be released in the coming period.
+* NAT2024-2: [Dropbox](https://www.dropbox.com/scl/fi/rwq7a4dblzucpg0zjetvc/NAT2024-2.zip?rlkey=p6s2injo4bh161qsxa13fidjz&st=atnf4ebo&dl=0).
 
 # Contact 
 Liangliang Yao
