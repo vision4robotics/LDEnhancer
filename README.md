@@ -28,7 +28,7 @@ train_dataset
 
 test_dataset
 
-* NAT2024-2: [Dropbox](https://www.dropbox.com/scl/fi/rwq7a4dblzucpg0zjetvc/NAT2024-2.zip?rlkey=p6s2injo4bh161qsxa13fidjz&st=atnf4ebo&dl=0).
+* NAT2024-2: [Dropbox](https://www.dropbox.com/scl/fi/rwq7a4dblzucpg0zjetvc/NAT2024-2.zip?rlkey=p6s2injo4bh161qsxa13fidjz&st=atnf4ebo&dl=0), [Baidu](https://pan.baidu.com/s/1Ycg0CKCOU8naV5m0Mid2TA?pwd=z78k).
 
 # Contact 
 Liangliang Yao
