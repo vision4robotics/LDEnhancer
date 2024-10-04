@@ -71,6 +71,7 @@ Email: changhongfu@tongji.edu.cn
 >     python lowlight_train.py
 >     ```
 
+* In our experiment, the best weight is the 66th epoch.
 
 
 # Acknowledgements
