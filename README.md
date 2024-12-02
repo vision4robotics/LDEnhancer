@@ -20,7 +20,7 @@ This figure shows the workflow of our tracker.
 ## Demo
 
 - 📹 Demo of real-world tests.
-- The demo has been released on YouTube[LDEnhancer](https://www.youtube.com/watch?v=-HlP9kqdmrk).
+- The demo has been released on YouTube [LDEnhancer](https://www.youtube.com/watch?v=-HlP9kqdmrk).
 <!--- Refer to [LDEnhancer](https://youtu.be/tTI-QHqxMf8) on YouTube for more real-world tests.-->
 
 ## Result
